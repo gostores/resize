@@ -1,5 +1,5 @@
 /*=================================
-* Copyright(c)2015-2016 gostores
+* Copyright(c)2015-2016 govenue
 * From: github.com/nfnt/resize
 *=================================*/
 package resize
